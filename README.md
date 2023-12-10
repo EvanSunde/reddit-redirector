@@ -1,2 +1,3 @@
-# redddit-redirector
-Redirect reddit.com to photon-reddit.com
+# Reddit-redirector extension
+
+Chrome or edge extension to Redirect reddit.com to photon-reddit.com
