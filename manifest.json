@@ -1,0 +1,8 @@
+{
+	"manifest_version":2,
+	"name": "Reddit Redirect",
+	"version": "1.0",
+	"description": "Redirects reddit.com to photon-reddit.com",
+	"permissions": ["webRequest","*://reddit.com/*","webRequestBlocking"],
+	"background": {"scripts": ["background.js"]}
+}
